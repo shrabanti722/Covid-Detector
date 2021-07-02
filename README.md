@@ -4,7 +4,7 @@ Analyzing health condition from CT scan of lungs
 
 ## Description
 
-This project is aimed towards providing free medical checkup using machine learning model. With this global pandemic going on even a simple checkup for covid  costs us huge. Instead of directky going to doctor and take up the test, people can upload their CT scan photo to our app and get a result with an average accuracy of 93%. Our model will classify between three categories while giving the final report. nornaml , pneumonia and covid. 
+This project is aimed towards providing free medical checkup using machine learning model. With this global pandemic going on even a simple checkup for covid  costs us huge. Instead of directly going to doctor and take up the test, people can upload their CT scan photo to our app and get a result with an average accuracy of 93%. Our model will classify between three categories while giving the final report. nornaml , pneumonia and covid. 
 
 
 Here are some references to our app.
